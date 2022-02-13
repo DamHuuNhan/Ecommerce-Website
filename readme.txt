@@ -1,0 +1,2 @@
+--chạy file table.sql trước để tạo dababase và bảng
+--chạy file data.sql để đổ dữ liệu vào database mới tạo
